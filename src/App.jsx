@@ -4,7 +4,6 @@ import Home from "./pages/home";
 import Footer from "./utlis/footer";
 import Lottie from "react-lottie";
 import * as animationData from "./animations/animations.json";
-import ThemeToggle from './utlis/themetoggler'
 
 const App = () => {
   const [youtubeID] = useState("eGSUvfVt3k4");
